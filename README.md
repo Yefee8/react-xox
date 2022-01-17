@@ -1,2 +1,2 @@
-# react-xox
-A XOX game made by react
+# React XOX
+Build codes for react XOX.
